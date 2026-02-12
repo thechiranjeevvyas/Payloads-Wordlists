@@ -2,7 +2,7 @@
 
   <p align="center">
     <b>A curated, practical collection of offensive security payloads and wordlists for real-world testing.</b><br/>
-    Designed for penetration testers, bug bounty hunters, and security learners.
+    Designed for penetration testers, bug bounty hunters and security learners.
   </p>
 
   <p align="center">
