@@ -322,4 +322,4 @@ yesoreyeram-infinity-datasource
 yeya24-chaosmesh-datasource
 zestairlove-compacthostmap-panel
 zipkin
-zuburqan-parity-report-panel
+zuburqan-parity-report-panelba
